@@ -1,0 +1,9 @@
+ platform :ios, '13.0'
+
+target '3DAppearance' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 3DAppearance
+pod 'EMTNeumorphicView'
+end
